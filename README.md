@@ -4,12 +4,11 @@
 
 ## 📂 프로젝트
 
-### 1. [🌿 온실 농장 서포트 시스템](https://github.com/yourusername/greenhouse-support-system)
-**설명:** 마이크로프로세서와 웹 서버를 사용하여 온실 농업을 지원하는 종합 시스템입니다. 환경 요소를 모니터링하고 제어하여 식물 성장을 최적화합니다.
-- **개발 기간:** 3개월
-- **핵심 역할:** 풀스택 개발자
-- **개발 언어:** C, Python, HTML/CSS, JavaScript
-- **개발 환경:** Raspberry Pi, 센서, 웹 서버
+### 1. [🌿 온실 농장 서포트 시스템](https://github.com/ihshin20/Greenhouse_Support_System)
+**설명:** 마이크로프로세서와 웹 서버를 사용하여 온실 농업을 지원하는 시스템입니다. 환경 요소(온도, 습도, 조도)를 모니터링하고 파이카메라를 이용하여 식물의 상태를 살펴볼 수 있습니다.
+- **개발 기간:** 2022-11-09 ~ 2022-12-11
+- **개발 언어:** Python, HTML/CSS, JavaScript
+- **개발 도구:** Raspberry Pi, Flask App, GPIO, MQTT
 ![Greenhouse System](images/greenhouse.jpg)
 
 ### 2. [🛒 중고 거래 마켓 애플리케이션](https://github.com/yourusername/secondhand-market-app)
