@@ -8,7 +8,7 @@
 **설명:** 마이크로프로세서와 웹 서버를 사용하여 온실 농업을 지원하는 시스템입니다. 환경 요소(온도, 습도, 조도)를 모니터링하고 파이카메라를 이용하여 식물의 상태를 살펴볼 수 있습니다.
 - **개발 기간:** 2022-11-09 ~ 2022-12-11
 - **개발 언어:** Python, HTML/CSS, JavaScript
-- **개발 도구:** Raspberry Pi, PuTTY, Flask, GPIO, MQTT(mosquitto)<br>
+- **개발 도구:** Raspberry Pi, PuTTY, Flask, GPIO, MQTT(mosquitto)<br><br><br><br>
 ![Greenhouse_Support_System](images/greenhouse.jpg)<br>
 
 ### 2. [🏥 빅데이터 분석 프로젝트(심장병, 주택 가격)](https://github.com/ihshin20/Data_Analysis)
