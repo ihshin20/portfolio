@@ -10,8 +10,7 @@
 - **핵심 역할:** 풀스택 개발자
 - **개발 언어:** C, Python, HTML/CSS, JavaScript
 - **개발 환경:** Raspberry Pi, 센서, 웹 서버
-![Greenhouse System](images/greenhouse-system.png)
-[프로젝트 상세 PDF 보기](files/greenhouse-support-system.pdf)
+![Greenhouse System](images/greenhouse.jpg)
 
 ### 2. [🛒 중고 거래 마켓 애플리케이션](https://github.com/yourusername/secondhand-market-app)
 **설명:** 중고 거래를 위한 안드로이드 애플리케이션입니다. 사용자들은 판매할 상품을 등록하고, 구매할 상품을 검색하며, 판매자와 소통할 수 있습니다.
