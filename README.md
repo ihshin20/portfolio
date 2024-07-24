@@ -57,7 +57,7 @@
 
 ### 8. [🎨 ColorGlow: 퍼스널 컬러 진단 애플리케이션](https://github.com/ihshin20/ColorGlow)
 **설명:** Deep Learning을 이용한 퍼스널컬러 자동 진단 및 제품 추천 안드로이드 애플리케이션입니다.
-- **개발 기간:** 2024-2-26 ~ 2023-05-31
+- **개발 기간:** 2024-02-26 ~ 2023-05-31
 - **핵심 역할:** 팀장, 프로젝트 기획, 데이터베이스 설계, 데이터 크롤링 및 전처리, CNN모델 및 서버 구축
 - **개발 언어:** Python, JavaScript, Kotlin, Java
 - **개발 도구:** Android Studio, Runpod, VSCode, Jupyter Notebook, Google Cloud Platform, TensorFlow, OpenCV, dlib, selenium, Firebase<br><br>
